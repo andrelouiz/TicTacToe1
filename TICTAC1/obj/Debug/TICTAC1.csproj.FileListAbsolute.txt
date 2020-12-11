@@ -1,0 +1,6 @@
+/Users/andrelouiz/Downloads/Projects/TICTAC1/TICTAC1/bin/Debug/TICTAC1.exe
+/Users/andrelouiz/Downloads/Projects/TICTAC1/TICTAC1/bin/Debug/TICTAC1.pdb
+/Users/andrelouiz/Downloads/Projects/TICTAC1/TICTAC1/obj/Debug/TICTAC1.csprojAssemblyReference.cache
+/Users/andrelouiz/Downloads/Projects/TICTAC1/TICTAC1/obj/Debug/TICTAC1.csproj.CoreCompileInputs.cache
+/Users/andrelouiz/Downloads/Projects/TICTAC1/TICTAC1/obj/Debug/TICTAC1.exe
+/Users/andrelouiz/Downloads/Projects/TICTAC1/TICTAC1/obj/Debug/TICTAC1.pdb
